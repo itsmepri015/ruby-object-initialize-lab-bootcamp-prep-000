@@ -17,5 +17,9 @@ end
 def breed
 @breed
 end
+
+def breed=("Mutt")
+@breed = "Mutt"
+end
   
 end
